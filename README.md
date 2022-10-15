@@ -51,7 +51,7 @@ export const START_LAST_SECONDS = 2.25;
 - This bot does **NOT** guarantee a mint.
 - Tested on fuji only so far with this contract: https://testnet.snowtrace.io/txs?a=0x84D746c289CFe23B8dEE2ba01263514d60C06f1A and current `consts.js`
 - Please contribute if you can so we can get the best result. I know this bot is not perfect.
-- Twitter thread for more:
+- Twitter thread for more: https://twitter.com/redcoinguud/status/1581226573134340097
 
 ## Donate
 Only if you find this useful, you can donate here: `0xA5B7922F058b4675DcE7ACfDC6d43E9b8eC68De6`
